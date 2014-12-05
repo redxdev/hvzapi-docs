@@ -1,4 +1,4 @@
-# /profile
+# GET /profile
 
 ## Use
 
