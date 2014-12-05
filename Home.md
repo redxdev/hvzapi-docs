@@ -4,5 +4,5 @@ REST API Documentation
 ======================
 
 * [Overview](REST-API-Overview)
-* [Test Endpoints](rest_api_test)
+* [Test Endpoints](Test-REST-Endpoints)
 * [Status Endpoints](Status-REST-Endpoints)
