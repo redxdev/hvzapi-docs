@@ -1,6 +1,6 @@
 Test endpoints are primarily used to test an API key.
 
-# /test/key
+# GET /test/key
 
 ## Use
 
