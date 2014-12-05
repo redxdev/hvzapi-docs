@@ -10,7 +10,27 @@ Retrieve a player's profile info
 
 ## Response
 
-    TODO: This is a giant-ass object and typing it out on this laptop is a pain.
+    {
+        "profile": {
+            "id": int,
+            "apikey": string,
+            "fullname": string,
+            "email": string,
+            "clan": string // might be null
+            "team": "human" or "zombie",
+            "zombieId": string,
+            "humansTagged": int,
+            "badges" [], // array of badge objects, see the status api documentation for the format
+            "avatar": string,
+            "humanIds": [ // array of human id objects
+                {
+                    "id_string": string,
+                    "active": boolean
+                }
+            ],
+            "infections": [] // array of infection objects, see the status api documentation for the format
+        }
+    }
 
 ## Possible Errors
 
