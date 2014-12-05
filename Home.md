@@ -7,3 +7,4 @@ REST API Documentation
 * [Test Endpoints](Test-REST-Endpoints)
 * [Status Endpoints](Status-REST-Endpoints)
 * [Profile Endpoints](Profile-REST-Endpoints)
+* [Game Endpoints](Game-REST-Endpoints)
