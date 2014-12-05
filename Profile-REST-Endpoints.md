@@ -2,7 +2,9 @@
 
 ## Use
 
-Retrieve a player's profile info
+Retrieve your profile info.
+
+_Note: it is only possible to access other player's profiles, as they contain private information._
 
 ## Parameters
 
@@ -30,6 +32,26 @@ Retrieve a player's profile info
             ],
             "infections": [] // array of infection objects, see the status api documentation for the format
         }
+    }
+
+## Possible Errors
+
+_400:_ A JSON-formatted error will be sent. Errors include "Invalid API key", "API not enabled for user", and "Maximum API usage hit due to failure rate".
+
+# POST /profile/clan
+
+## Use
+
+Set your clan.
+
+## Parameters
+
+* _apikey (query):_ The API key
+
+## Response
+
+    {
+        "status": "ok"
     }
 
 ## Possible Errors
