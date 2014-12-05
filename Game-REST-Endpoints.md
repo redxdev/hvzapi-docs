@@ -4,7 +4,7 @@
 
 Register an infection
 
-_Note: While this does require an API key, it does not limit you to who can be infected/who is doing the infectin (provided you have valid human/zombie ids). The system will, however, disable your API key if you make too many invalid requests to this endpoint (contact an admin if this happens, either something's wrong or you're trying to cheat)._
+_Note: While this does require an API key, it does not limit you to who can be infected/who is doing the infecting (provided you have valid human/zombie ids). The system will, however, disable your API key if you make too many invalid requests to this endpoint (contact an admin if this happens, either something's wrong or you're trying to cheat)._
 
 ## Parameters
 
@@ -34,7 +34,7 @@ _400:_ A JSON-formatted error will be sent. Errors include "Invalid API key", "A
 
 Use an antivirus
 
-_Note: While this does require an API key, it does not limit you to who can be infected/who is doing the infectin (provided you have valid antivirus/zombie ids). The system will, however, disable your API key if you make too many invalid requests to this endpoint (contact an admin if this happens, either something's wrong or you're trying to cheat)._
+_Note: While this does require an API key, it does not limit you to who can be cured (provided you have valid antivirus/zombie ids). The system will, however, disable your API key if you make too many invalid requests to this endpoint (contact an admin if this happens, either something's wrong or you're trying to cheat)._
 
 ## Parameters
 
