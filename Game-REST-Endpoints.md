@@ -41,6 +41,7 @@ _Note: While this does require an API key, it does not limit you to who can be c
 * _apikey (query):_ The API key
 * _antivirus (request):_ The human id
 * _zombie (request):_ The zombie id
+
 ## Response
 
     {
