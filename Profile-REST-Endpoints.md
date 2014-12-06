@@ -47,6 +47,7 @@ Set your clan.
 ## Parameters
 
 * _apikey (query):_ The API key
+* _clan (request):_ Your new clan (max length: 32)
 
 ## Response
 
