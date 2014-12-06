@@ -157,7 +157,7 @@ Retrieve the list of infections.
                 "human_id": int, // player id
                 "zombie": string, // name of the zombie, for convenience
                 "zombie_id": int, // player id
-                "time": datetime,
+                "time": timestamp,
                 "latitude": number, // might be null
                 "longitude": number // might be null
             }
