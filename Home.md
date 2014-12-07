@@ -2,6 +2,8 @@ Welcome to the wiki for the HvZ @ RIT website! The website is written in PHP wit
 
 This wiki mostly contains documentation on the website's REST API.
 
+**WARNING:** The REST API is unstable at the moment, and subject to change.
+
 REST API Documentation
 ======================
 
