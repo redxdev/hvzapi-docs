@@ -5,8 +5,7 @@ statisticts, etc.
 
 * The current version of the API is v1
 * The API only responds with JSON
-* The API currently only supports data collection. Registering tags and working with user profiles are not yet
-implemented.
+* The API handles game information (player list, infection list, etc), registering tags, registering antiviruses, and some *basic* profile settings
 
 # Accessing the API
 
