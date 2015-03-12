@@ -1,3 +1,5 @@
+**Warning:** The clan-related endpoints are likely to change.
+
 # GET /profile
 
 ## Use
