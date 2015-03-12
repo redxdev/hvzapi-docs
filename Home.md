@@ -1,4 +1,4 @@
-Welcome to the wiki for the HvZ @ RIT website! The website is written in PHP with the Symfony framework (among other dependencies). It has been used in the RIT fall 2014 weeklong game with much success.
+Welcome to the wiki for the HvZ @ RIT website! The website is written in PHP with Symfony2. It was used during the Fall 2014 RIT weeklong game, and supported around 800 players, mods, and administrators.
 
 This wiki mostly contains documentation on the website's REST API.
 
