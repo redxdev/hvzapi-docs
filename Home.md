@@ -1,5 +1,3 @@
-Welcome to the wiki for the HvZ @ RIT website! The website is written in PHP with Symfony2. It was used during the Fall 2014 RIT weeklong game, and supported around 800 players, mods, and administrators.
-
 REST API Documentation
 ======================
 
