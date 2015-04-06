@@ -27,12 +27,12 @@ If there is a game either upcoming or currently running:
             "hours": int,
             "minutes": int,
             "seconds": int,
-            "timestamp": timestamp
+            "diff": timestamp
         }
     }
 
 The "time" object will be based on the game start if the game is upcoming, and on the game end if the game is currently
-running. The timestamp is the unix timestamp that the time object represents.
+running. "diff" is the difference (in unix time) between now and the time object.
 
 ## Possible Errors
 
