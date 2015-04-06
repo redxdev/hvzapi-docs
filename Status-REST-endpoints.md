@@ -32,7 +32,7 @@ If there is a game either upcoming or currently running:
     }
 
 The "time" object will be based on the game start if the game is upcoming, and on the game end if the game is currently
-running.
+running. The timestamp is the unix timestamp that the time object represents.
 
 ## Possible Errors
 
