@@ -24,7 +24,7 @@ _Note: it is only possible to access other player's profiles, as they contain pr
             "team": "human" or "zombie",
             "zombieId": string,
             "humansTagged": int,
-            "badges" [], // array of badge objects, see the status api documentation for the format
+            "badges": [], // array of badge objects, see the status api documentation for the format
             "avatar": string,
             "humanIds": [ // array of human id objects
                 {
