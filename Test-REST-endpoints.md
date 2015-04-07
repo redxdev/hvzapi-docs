@@ -13,8 +13,8 @@ Test an api key.
 ## Response
 
     {
-        "status" => "ok",
-        "user_id" => int // user id for the api key
+        "status": "ok",
+        "user_id": int // user id for the api key
     }
 
 ## Possible Errors
