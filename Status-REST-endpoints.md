@@ -10,16 +10,8 @@ None
 
 ## Response
 
-If there is no game scheduled:
-
     {
-        "status": "no-game",
-    }
-
-If there is a game either upcoming or currently running:
-
-    {
-        "status": "pre-game" or "current-game",
+        "status": "pre-game" or "current-game" or "end-game",
         "start": timestamp,
         "end": timestamp,
         "time": {
