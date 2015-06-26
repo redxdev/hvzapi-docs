@@ -29,6 +29,8 @@ running. "diff" is the difference (in seconds) between now and the time object. 
 
 ## Possible Errors
 
+None
+
 # GET /status/teams
 
 ## Use
