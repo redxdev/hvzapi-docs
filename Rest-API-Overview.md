@@ -6,6 +6,7 @@ statisticts, etc.
 * The current version of the API is v1
 * The API only responds with JSON
 * The API handles game information (player list, infection list, etc), registering tags, registering antiviruses, and some *basic* profile settings
+* There is no way to register for a new account with the API. This is a conscious decision, as the registration system requires admin/mod oversight to use in the first place.
 
 # Accessing the API
 
