@@ -1,4 +1,4 @@
-Test endpoints are primarily used to test an API key. This will likely be removed at some point.
+This will likely be removed at some point.
 
 # GET /test/key
 
