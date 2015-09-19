@@ -2,6 +2,10 @@
 
 This repository contains the api documentation for hvzsite.
 
+## NOTICE
+
+The API will be undergoing some major upgrades before Spring 2016 as the website is being rewritten. That said, there will likely be a v1-compatable API so writing against these docs shouldn't break anything in the spring.
+
 ## Endpoint Location
 
 All endpoints are located at /api/v1/endpoint. For example, if you want the status endpoint and the website is located at https://hvz.rit.edu, then the full URL would be https://hvz.rit.edu/api/v1/status
