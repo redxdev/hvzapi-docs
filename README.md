@@ -1,5 +1,7 @@
 # API documentation for hvzsite
 
+__THIS IS OLD, SEE [HERE](https://github.com/redxdev/hvzsite/tree/master/docs) FOR DOCUMENTATION ON THE NEW VERSION OF THE WEBSITE__
+
 This repository contains the api documentation for hvzsite.
 
 ## NOTICE
